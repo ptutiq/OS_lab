@@ -23,21 +23,15 @@
 
 > ansible-playbook nginx.yml 
 
-## Проверка балансировщика
-### Всё работает
-<a href="https://ibb.co/xFGSNk7"><img src="https://i.ibb.co/Y087xCL/2022-04-06-20-48-56.png" alt="2022-04-06-20-48-56" border="0"></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/WsJmFJ5/2022-04-06-20-24-15.png" alt="2022-04-06-20-24-15" border="0"></a>
 
 
 ## Проверка отказоустойчивости
-### Отключен haproxy1
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/6NQGLcB/2022-04-06-20-24-15.png" alt="2022-04-06-20-24-15" border="0"></a>
+### Отключен proxy1
 
-<a href="https://ibb.co/xFGSNk7"><img src="https://i.ibb.co/Y087xCL/2022-04-06-20-48-56.png" alt="2022-04-06-20-48-56" border="0"></a>
-
-### Отключен haproxy2
-<a href="https://ibb.co/pxq7nPT"><img src="https://i.ibb.co/ZV9jNJr/2022-04-06-20-26-06.png" alt="2022-04-06-20-26-06" border="0"></a>
+<a href="https://ibb.co/k0DLWHM"><img src="https://i.ibb.co/2PMzfn5/2022-04-07-16-29-51.png" alt="2022-04-07-16-29-51" border="0"></a>
 
 
-<a href="https://ibb.co/xFGSNk7"><img src="https://i.ibb.co/Y087xCL/2022-04-06-20-48-56.png" alt="2022-04-06-20-48-56" border="0"></a>
+
+### Отключен proxy2
+
+<a href="https://ibb.co/MsWSxX1"><img src="https://i.ibb.co/DtsWHqM/2022-04-07-16-45-03.png" alt="2022-04-07-16-45-03" border="0"></a>
