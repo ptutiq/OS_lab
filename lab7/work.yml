@@ -1,0 +1,6 @@
+- name: slave
+  hosts: pudg
+  become: true
+  strategy: linear
+  roles:
+    - base
